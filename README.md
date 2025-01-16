@@ -47,10 +47,6 @@ The process solution is a Maven project and contains:
 * JUnit 5 test case
 
 
-# How To Run
-
-There is a walk through video available for the simple version of this process:
-
 
 ## Create Camunda 8 SaaS Cluster
 
